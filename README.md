@@ -6,7 +6,7 @@ This is Trisit, currently working as a Full Time Technical Business Analyst and 
 
 "_Keep Analyzing, Keep exploring_"
 
-![Trisit's github stats](https://github-readme-stats.vercel.app/api?username=trisitc&theme=cobalt&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisitc&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Trisit's github stats](https://github-readme-stats.vercel.app/api?username=trisitc&theme=cobalt&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisitc&theme=cobalt)](https://github.com/trisitc/github-readme-stats)
 
 <!--
 **trisitc/trisitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
