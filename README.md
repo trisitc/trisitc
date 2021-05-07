@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-This is Trisit, currently working as a Full Time Technical Business Analyst and Partly as Data Scietist..
+This is Trisit, currently working as a Full Time Technical Business Analyst and Partly as Data Scientist..
 
 <!-- You can find more about me here : https://trisitc.github.io/portfolio/ -->
 
